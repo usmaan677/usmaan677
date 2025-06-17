@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Usmaan!
 
-<!--
-**usmaan677/usmaan677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about using code to build meaningful tools that solve real-world problems. I enjoy creating clean, accessible web apps and browser extensions — especially those that empower users to make better, more ethical choices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech I Work With
+- **Languages:** JavaScript, Python, C++, HTML
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Tools:** Git, GitHub, Puppeteer, Chrome Extensions
+
+---
+
+## 🔨 Projects I'm Proud Of
+- **Ethical Brand Checker**  
+  Chrome extension + backend scraper that checks how sustainable a fashion brand is while you browse.  
+  → Uses Puppeteer to fetch live data from [Good On You](https://directory.goodonyou.eco)
+
+- **Peronal Portfolio Website**  
+  A responsive website for my personal portfolio made with React and TailwindCSS, and deployed via GitHub Pages.
+
+---
+
+## 📚 Currently Learning
+- Full-stack app deployment (Render/Vercel)
+- Browser automation + scraping best practices
+- Working with APIs and OAuth securely
+
+---
+
+## 📫 Let's Connect
+Feel free to explore my projects, contribute, or reach out if you're working on something cool!
+
+
