@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Usmaan!
 
-I'm a Computer Science student passionate about using code to build meaningful tools that solve real-world problems. I enjoy creating clean, accessible web apps and browser extensions — especially those that empower users to make better, more ethical choices.
+I'm a Computer Science student passionate about using code to build meaningful tools that solve real-world problems. I enjoy creating clean, accessible web apps and browser extensions especially those that help users to make better, more ethical choices.
 
 ---
 
