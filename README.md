@@ -15,7 +15,7 @@
 
 ### About me
 
-I'm a CS student at the University of Houston who likes turning messy real-world problems into clean, working software. Lately I've been focused on **retrieval-augmented generation (RAG)**, **data engineering / ETL**, and **full-stack web apps**. I also co-founded **Elite Robotics**, where I work on the engineering and software side.
+I'm a CS student at the University of Houston who likes turning messy real-world problems into clean, working software. Lately I've been focused on **retrieval-augmented generation (RAG)**, **data engineering / ETL**, and **full-stack web apps**. I also co-founded **Elite Robotics**, where I hold weekly youth robotics classes across Houston.
 
 I care about tools that are actually useful — whether that's a local RAG assistant that refuses to guess, a pipeline that tells you which skills employers really want, or an extension that helps people shop more ethically.
 
